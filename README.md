@@ -1,2 +1,1 @@
-## Proyecto Control de tanque por ON-OFF y PID,con bomba a la entrada y  salida por gravedad con vavlula
- controlada por servomotor interfaz visual web mediante un esp32
+## Proyecto de control  ON-OFF y PID de tanque, con bomba a la entrada y salida por gravedad con vavlula controlada por servomotor. Interfaz visual web y control del sistema mediante controlador esp32
